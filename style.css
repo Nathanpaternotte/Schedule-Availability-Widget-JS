@@ -1,0 +1,15 @@
+.cs-hours-open {
+    background: #00BD5B;
+    max-width: fit-content;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.cs-hours-closed {
+    background: #bd2a00;
+    max-width: fit-content;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
